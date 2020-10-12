@@ -35,9 +35,9 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Career Goals
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/aasha07/aasha07.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+I am currently majoring in Pyschology with a minor in business. I have always been interested in  criminology/psychology and hope to work within this field one day. It is also my dream to own all or part of a business, whether it is my own or something I am passionate about. 
 
 ### Support or Contact
 
