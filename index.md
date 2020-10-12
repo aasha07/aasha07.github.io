@@ -44,4 +44,4 @@ My favorite type of food to eat is Mexican and Italian. My favorite dish at the 
 
 ### Travel
 I love to travel and my top favorite place so far has to be Mexico! I cannot wait to visit more places, as some of my dream vacations include Greece, Iceland, France, and much more.
-![pictureofmexico[(https://www.oyster.com/wp-content/uploads/sites/35/2019/05/17912-9696492595-0b73d63c88-o.jpg)
+![pictureofmexico[(/35/2019/05/17912-9696492595-0b73d63c88-o.jpg)
