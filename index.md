@@ -1,6 +1,6 @@
 ## Hi! Welcome to my page!
 ![pictureofmyself](/IMG_6703.jpeg)
-You can use the [editor on GitHub](https://github.com/aasha07/aasha07.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+           My name is Aasha Bala and I am currently a freshman at UMASS Amherst.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
