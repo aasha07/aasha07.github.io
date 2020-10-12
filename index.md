@@ -47,4 +47,4 @@ I love to travel and my top favorite place so far has to be Mexico! I cannot wai
 
 ![mexicopic](https://www.oyster.com/wp-content/uploads/sites/35/2019/05/17912-9696492595-0b73d63c88-o.jpg)
 
-This is a picture of the cenote that my family and I saw when we went to in Mexico! [link to Google!](https://www.oyster.com/articles/the-most-amazing-cenotes-in-mexico/)
+This is a picture of the cenote that my family and I saw when we went to in Mexico! [Here's a little description about it!](https://www.oyster.com/articles/the-most-amazing-cenotes-in-mexico/)
