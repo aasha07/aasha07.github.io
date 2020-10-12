@@ -3,10 +3,16 @@
           
 My name is Aasha Bala and I am currently a freshman at UMASS Amherst.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### **My Hobbies**
-
+### **What I do in my Free Time**
+* Watch TV
+* Work out
+* Shopping with friends
+* Baking
+* Listen to music
+* Go into the city
+* Beach
+* Skiing/Skating
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
