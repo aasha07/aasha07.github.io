@@ -41,3 +41,6 @@ I am currently majoring in Pyschology with a minor in business. I have always be
 
 ### Favorite Food
 My favorite type of food to eat is Mexican and Italian. My favorite dish at the moment is chicken parmesian!
+
+### Travel
+I love to travel and my top favorite place so far has to be Mexico! I cannot wait to visit more places, as some of my dream vacations include Greece, Iceland, France, and much more.
