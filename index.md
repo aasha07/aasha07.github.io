@@ -13,7 +13,7 @@ My name is Aasha Bala and I am currently a freshman at UMASS Amherst.
 * Go into the city
 * Beach
 * Skiing/Skating
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
 
 ```markdown
 Syntax highlighted code block
