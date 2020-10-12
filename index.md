@@ -1,4 +1,4 @@
-## Hi! Welcome to my page!
+## "*You get what you work for, not for what you wish for*"
 ![pictureofmyself](/IMG_6703.jpeg)
           
 My name is Aasha Bala and I am currently a freshman at UMASS Amherst.
