@@ -39,6 +39,5 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 I am currently majoring in Pyschology with a minor in business. I have always been interested in  criminology/psychology and hope to work within this field one day. It is also my dream to own all or part of a business, whether it is my own or something I am passionate about. 
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Favorite Food
+My favorite type of food to eat is Mexican and Italian. My favorite dish at the moment is chicken parmesian!
